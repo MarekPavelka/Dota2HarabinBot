@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dota2HarabinBot", "Dota2HarabinBot\Dota2HarabinBot.csproj", "{DCE4672D-7C86-472A-B013-FEEE9AE2C41D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE4672D-7C86-472A-B013-FEEE9AE2C41D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE4672D-7C86-472A-B013-FEEE9AE2C41D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE4672D-7C86-472A-B013-FEEE9AE2C41D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE4672D-7C86-472A-B013-FEEE9AE2C41D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23924B51-170E-4022-89D8-DD4CFFA33A01}
+	EndGlobalSection
+EndGlobal
