@@ -5,7 +5,9 @@ VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dota2HarabinBot", "Dota2HarabinBot\Dota2HarabinBot.csproj", "{DCE4672D-7C86-472A-B013-FEEE9AE2C41D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Initialize", "Initialize\Initialize.csproj", "{B1DC007F-5C95-4528-BA55-1805853CC6F1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleProggram", "Initialize\ExampleProggram.csproj", "{B1DC007F-5C95-4528-BA55-1805853CC6F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test1", "Test1\Test1.csproj", "{966C1085-F67D-42A5-AE9B-FDC5AEDBFB10}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{B1DC007F-5C95-4528-BA55-1805853CC6F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1DC007F-5C95-4528-BA55-1805853CC6F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1DC007F-5C95-4528-BA55-1805853CC6F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{966C1085-F67D-42A5-AE9B-FDC5AEDBFB10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{966C1085-F67D-42A5-AE9B-FDC5AEDBFB10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{966C1085-F67D-42A5-AE9B-FDC5AEDBFB10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{966C1085-F67D-42A5-AE9B-FDC5AEDBFB10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
